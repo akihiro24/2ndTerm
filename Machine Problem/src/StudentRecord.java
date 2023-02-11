@@ -66,12 +66,12 @@ class StudentRecord {
         System.out.println(" ");
         System.out.println("Student Name: " + stName);
         System.out.println("Address: " + stAddress);
-        System.out.println("Address: " + stAge);
+        System.out.println("Age: " + stAge);
 
         System.out.println(" ");
         System.out.println("Student Name: " + stName1);
         System.out.println("Address: " + stAddress1);
-        System.out.println("Address: " + stAge1);
+        System.out.println("Age: " + stAge1);
 
 
         sc.close();
